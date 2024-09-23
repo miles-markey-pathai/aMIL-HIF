@@ -8,8 +8,8 @@ pathai-aMIL+HIF is the primary code repository for reproducing analyses in: "Spa
 2. Estimated install time: <1 minute
 3. Estimated run time: varies between scripts (1-5 minutes)
 # Contents
-1. The main directory contains all the notebooks and utility python files to reproduce the analysis in this manuscript
-2. /data contains all raw and cached data objects needed to reproduce the analysis, as well as to read in the training and evaluation data included in the manuscript.
+* The main directory contains all the notebooks and utility python files to reproduce the analysis in this manuscript
+* /data contains all raw and cached data objects needed to reproduce the analysis, as well as to read in the training and evaluation data included in the manuscript.
 # Version and package requirements
 * To install the Python packages and dependencies needed to operate this code, please use Anaconda or Miniconda. From within this directory, do:
 * conda env create --name amil-hif --file=environment.yml
